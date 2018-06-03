@@ -1,2 +1,2 @@
 # Fractal-gong
-Simple code where readers can make a continuation of the code as in language of everything itself...
+Let's make one simple language, where one can follow.
